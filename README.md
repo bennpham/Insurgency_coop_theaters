@@ -1,2 +1,3 @@
-# Insurgency_coop_theaters
-A place to store all coop theaters I created or modified
+# Insurgency Coop Theaters
+
+This repository contains theater files that I either created or modified from an existing theater that modifies the gameplay of Insurgency. I will only store theaters that are designed for coop gamemodes such as Checkpoint, Hunt, and Survival.
