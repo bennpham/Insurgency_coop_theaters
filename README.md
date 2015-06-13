@@ -4,7 +4,7 @@ This repository contains theater files that I either created or modified from an
 
 PISTBOT
 --------
-Modified version of ZOMBOT where bots now have Makarovs instead of just knives. Players now have more ammo and can also carry a Mossberg shotgun as a primary weapon instead of just a Mosin Nagant. 
+Mosin Nagant, Shotgun, Secondary (auto m9, shotgun). Bots uses Makarov against you. They won't fire if you're too far. Modified version of ZOMBOT. 
 
 PISTBOT_AUTO
 ------------
