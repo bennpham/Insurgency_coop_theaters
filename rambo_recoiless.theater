@@ -409,6 +409,13 @@
 	
 	"weapon_upgrades"
 	{
+		"optic_2xaimpoint"
+		{
+			"allowed_weapons"
+			{
+			}
+		}
+		
 		"optic_2xaimpoint_sec"
 		{
 			"allowed_weapons"

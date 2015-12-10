@@ -994,6 +994,20 @@
 			{
 			}
 		}
+		
+		"optic_elcan"
+		{
+			"allowed_weapons"
+			{
+			}
+		}
+		
+		"optic_2xaimpoint"
+		{
+			"allowed_weapons"
+			{
+			}
+		}
 
 		"optic_kobra"
 		{
