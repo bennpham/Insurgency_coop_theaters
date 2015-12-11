@@ -14,6 +14,22 @@ rambo
 ------
 Players can only have an M249 without any attachments. Players cannot reload M249s but it contains 2000 rounds of bullets to use. Insurgent loadouts are default coop loadouts.
 
+rambo_elite
+------------
+Same as rambo except that Insurgents loadouts are Elite coop loadouts
+
+rambo_hardcore
+--------------
+Same as rambo except that Insurgents loadouts are Hardcore coop loadouts
+
 rambo_recoiless
 ---------------
 Same as rambo except that M249 have 0 recoil.
+
+rambo_recoiless_elite
+---------------------
+Same as rambo_recoiless except that Insurgents loadouts are Elite coop loadouts
+
+rambo_recoiless_hardcore
+-------------------------
+Same as rambo_recoiless except that Insurgents loadouts are Hardcore coop loadouts
